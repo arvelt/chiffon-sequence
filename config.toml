@@ -1,3 +1,10 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "jp-ja"
+title = "Chiffon sequence"
+theme = "minimal"
+
+[params]
+    accent = "red"
+    showBorder = true
+    backgroundColor = "white"
+    
