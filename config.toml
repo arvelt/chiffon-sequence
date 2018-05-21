@@ -1,4 +1,4 @@
-baseURL = "http://chiffon-sequence.net"
+baseURL = "https://chiffon-sequence.net"
 languageCode = "jp-ja"
 title = "シフォンシーケンス"
 theme = "minimal"
