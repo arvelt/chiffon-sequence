@@ -27,6 +27,11 @@ theme = "minimal"
     name = "Works"
     weight = 3
 
+[[menu.main]]
+    url = "/shop/main"
+    name = "Shop"
+    weight = 4
+
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
